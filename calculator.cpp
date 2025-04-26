@@ -1,5 +1,6 @@
 #include "calculator.h"
 #include "./ui_calculator.h"
+#include "baseCalculator.hpp"
 #include <QString>
 
 const int maxBufferSize = 10;
